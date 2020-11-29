@@ -28,10 +28,13 @@ Small project.
 This was a small project created on Udemy to practice making a sign up form for a webpage.  
 Project based on [HTML, CSS, JavaScript - Build 6 Creative Projects]( https://www.udemy.com/course/html-css-javascript-course-build-6-creative-projects/)
 
+It's a modern looking form with a "subscribe" button on the landing page. It starts with a banner and an annimated arrow pointing to a button created with CSS and a city scape background photo. When the button is clicked, user is taken to a webform with entry fields, a "Get News?" yes/no button and a sign up button. Also with a photo on a floating card hovering over an orange background. It's fully responsive on different screen sizes. 
+
 #### Technologies
 
 - HTML5
 - CSS3
+- Javascript
 
 [Back To The Top](#signupform)
 
