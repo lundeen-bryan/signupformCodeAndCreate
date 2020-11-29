@@ -23,12 +23,12 @@
         <div class="form-container">
             <form class="sign-up-form">
                 <input type="text" class="form-input" placeholder="FULL NAME">
-                <input type="email" class="form-input" placeholder="EMAIL ADDRESS">
-                <p>Get News?</p>
-                <label>No</label>
-                <input type="checkbox">
-                <label>Yes</label>
-                <button type="button">Sign Up Here</button>
+            <input type="email" class="form-input" placeholder="EMAIL ADDRESS">
+            <p>Get News?</p>
+            <label>No</label>
+            <input type="checkbox">
+            <label for="">Yes</label>
+            <button type="button">Sign Up Here</button>
             </form>
             <div class="header">
                 <h1>Welcome to CodeAndCreate</h1>
