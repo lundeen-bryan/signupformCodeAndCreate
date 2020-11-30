@@ -1,6 +1,6 @@
 # SignUpForm
 
-![[Image Desc for project]]([project image url])
+![Final Screenshot](images/screenshot.jpg)
 > Simple sign up form for website demonstration
 
 ---
